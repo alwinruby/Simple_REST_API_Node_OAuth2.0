@@ -1,1 +1,3 @@
 # A Simple REST APIBuilt with Node and  OAuth 2.0
+
+Taken from https://www.sitepoint.com/build-a-simple-rest-api-with-node-and-oauth-2-0/
