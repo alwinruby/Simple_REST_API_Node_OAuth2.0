@@ -20,3 +20,14 @@ Epilogue needs to initialize with both the app and the database. You then define
 To actually create the database, you need to run database.sync(), which returns a Promise. You’ll want to wait until it’s finished before starting your server.
 
 The module.exports command says that the initializeDatabase function can be imported from another file.
+
+## Create an Authorisation Server
+
+
+The API will
+
+    * Authenticate and authorise your users
+    * Store data about your users
+    * Perform password-based and social login
+    * Secure your application with multi-factor authentication
+    * And much more! Check out our product documentation
